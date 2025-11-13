@@ -6,9 +6,9 @@ This is just gonna be a circular devboard with a small dial in the centre for vo
 Just making this to learn a bit more about doing circuit design mostly.
 
 Repository includes:
-- Kicad files in /Hackpad Project
-- Raw Gerber in /gerber , also in main/gerber.zip
-- Hackpad case 3d files in stl, step and f3d formats in main
+- Kicad files in /PCB(kicad) 
+- Raw Gerber in /gerber , also in CAD/gerber.zip
+- Hackpad case 3d files in stl, step and f3d formats in /CAD
 
 Pcb images:
 <img width="1080" height="795" alt="Screenshot of Schematic" src="https://github.com/user-attachments/assets/2c458894-2ad9-49e0-886e-8db1855c7dbc" />
