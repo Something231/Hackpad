@@ -490,9 +490,9 @@
       "plot": "/home/hamish/Desktop/Projects/Hackpad/gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Hackpad Project.stl",
       "svg": "",
-      "vrml": ""
+      "vrml": "Hackpad Project.wrl"
     },
     "page_layout_descr_file": ""
   },
