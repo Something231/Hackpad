@@ -16,7 +16,8 @@ Pcb images:
 
 3d Model:
 <img width="1121" height="712" alt="Bottom Plate Screenshot" src="https://github.com/user-attachments/assets/69f6f17c-908a-4ea9-a197-e1bf92840641" />
-<img width="1121" height="712" alt="Top plate screenshot" src="https://github.com/user-attachments/assets/9c65319b-82c9-40b6-8c03-1d652e1eb452" />
+<img width="1205" height="692" alt="Screenshot from 2025-11-14 17-17-01" src="https://github.com/user-attachments/assets/ca00e43a-8d94-43f7-b251-65bcc37719a1" />
+
 
 Assembled 3d Model that took ages to make:
 <img width="1428" height="846" alt="Screenshot from 2025-11-14 17-11-40" src="https://github.com/user-attachments/assets/25de6152-c59e-4ddf-b24a-9dcd65cb0b42" />
